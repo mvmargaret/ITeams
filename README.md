@@ -2,7 +2,7 @@
 
 Support: [iteams.app.help@gmail.com](mailto:iteams.app.help@gmail.com)
 
-# Privacy Policy for ITeams
+# Privacy Policy
 
 Welcome to ITeams, a fun puzzle game. This Privacy Policy outlines how we handle your privacy and data when you use our mobile application ITeams ("App").
 
